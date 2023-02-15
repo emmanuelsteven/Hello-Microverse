@@ -92,7 +92,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 📝 License 
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://github.com/emmanuelsteven/Hello-Microverse/blob/main/LICENSE.md) licensed.
 
 
 
