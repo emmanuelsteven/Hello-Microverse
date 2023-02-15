@@ -188,7 +188,7 @@ Example command:
 
 - GitHub:[@emmanuelsteven](https://github.com/emmanuelsteven)
 - Twitter:[@CjayStev](https://twitter.com/CjayStev)
-- LinkedIn: [steven-emmanuel](https://www.linkedin.com/in/steven-emmanuel)
+- LinkedIn: [75a03a141](https://www.linkedin.com/in/steven-emmanuel)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
